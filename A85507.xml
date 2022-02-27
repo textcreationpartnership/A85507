@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gradus Simeonis: or, The first-fruits of Philip, Earle of Pembroke and Montgomery, &amp;c. sometimes Knight of the Garter: and now Knight of Berk-Shire. Presented in a learned speech upon the day of his ascending downe into the lower House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85507</idno>
+            <idno type="STC">Wing G1473</idno>
+            <idno type="STC">Thomason E551_17</idno>
+            <idno type="STC">ESTC R204636</idno>
+            <idno type="EEBO-CITATION">99864101</idno>
+            <idno type="PROQUEST">99864101</idno>
+            <idno type="VID">165046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165046)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E551[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gradus Simeonis: or, The first-fruits of Philip, Earle of Pembroke and Montgomery, &amp;c. sometimes Knight of the Garter: and now Knight of Berk-Shire. Presented in a learned speech upon the day of his ascending downe into the lower House of Commons.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>In the first year of the Lords freedome [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Pembroke's first speech in the House of Commons.</note>
+                  <note>The words "sometimes" and "now" are each enclosed in square brackets on title page.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 24 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165046:1" rendition="simple:additions"/>
+            <p>
+               <hi>GRAD<g ref="char:V">Ʋ</g>S SIMEONIS:</hi> OR, THE FIRST-FRVITS OF PHILIP, Earle of <hi>Pembroke</hi> and <hi>Montgomery, &amp;c. [SOMETIMES]</hi> KNIGHT of the GARTER: <hi>And [NOW]</hi> KNIGHT of BERK-SHIRE.</p>
+            <p>
+               <hi>PRESENTED</hi> In a learned Speech upon the Day of his <hi>Aſcending downe</hi> into the <hi>Lower HOUSE</hi> of <hi>COMMONS.</hi>
+            </p>
+            <p>
+               <add>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rill 24 1649</add>In the firſt yeare of the LORDS Freedome.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165046:2"/>
+            <pb n="1" facs="tcp:165046:2"/>
+            <head>Gradus Simeonis, &amp;c.</head>
+            <p>MAſter Speaker, and worthy Fellow-Members, I am now advanc'd into the Lower Houſe; and am glad I can ſay unto you (as ſometimes did another Worthie of this Houſe) BEHOLD YOUR KNIGHT. I am not aſhamed to be a Knight; my Fa<g ref="char:EOLhyphen"/>ther was a Knight before me: and why may not a man be a Knight <hi>after</hi> he is a Lord, as well as <hi>before?</hi> I am the firſt Knight that ever You made; Who ſhould make <hi>Knights</hi> but <hi>you</hi> that have the <hi>Sword?</hi> I am a Knight of <hi>your</hi> making, and I hope I am a Knight of <hi>Gods</hi> making. I was <hi>borne</hi> a Knight, and now I am <hi>choſen</hi> a Knight; why ſhould we not be twice Knights, as well as twice Children? The Presbyterian Parliament made me a <hi>Knight Errant;</hi> I was then a Knight of All Shires. I think They were the greater Levellers; for they brought me downe to be a Spaniel or Pack-horſe: they could find no uſe for me but to Fetch and Carry. I had <hi>Hobſons</hi> choiſe, either be a <hi>Hobſon</hi> or nothing. I was then a plaine ordi<g ref="char:EOLhyphen"/>nary <hi>Poſt,</hi> but I thank God you have made me a <hi>Knight o'th' Poſt.</hi>
+            </p>
+            <p>Mr. Speaker, I have been Knight o'th' <hi>Bath,</hi> &amp; Knight o'th' <hi>G<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter,</hi> and all manner of Knights; I have been dubd ſo often, that I am now faine to weare a Periwig. You may dub me what you will but a Lord <hi>Capel;</hi> I would be any thing but a <hi>Saint</hi> or a <hi>Martyr.</hi>
+            </p>
+            <p>Mr. Speaker, I am not very good at Speeches; but I had rather make twenty i'th' Lower Houſe here, then one upon the <hi>Scaffold.</hi>
+            </p>
+            <pb n="2" facs="tcp:165046:3"/>
+            <p> Mr. Speaker, Reformation goes backward, and Crabs goe backward, all things goe backward, and why ſhould not I goe backward? Now is the time o'th' yeare (you know) for Lobſters. I had rather have gone forward, but we muſt all goe that way the Devill drives. I would ſtill be growing, though it be downwards; why ſhould not old Lords as well as old men be Cowes tailes? I was alwayes a Dunce you know; I uſed to learne my Leſſons over againe i'th' Horne-booke; and why may I not doe it ſo i'th' Heraulds booke? For a Lord to turne Knight is onely to weare his coat the wrong ſide out. It's a hard world now; Lords may be forced to turn their cloathes. Had I not been a Knight, I muſt have been nothing. I was (I knew) at a loſſe in my Lordſhip, and I learnt of my hounds to hunt counter, and caſt about. Would you not have me (Mr. Speaker) have as much wit as a hound? None took me for a Lord, but onely ſome ſilly people like my ſelfe.</p>
+            <p>I am ſure on't, I have nothing to ſhew for't but a <hi>Star;</hi> A Horſe for ought I knew was as noble a beaſt as my ſelfe; a Star is but a Star whether it be worn in ones fore<g ref="char:EOLhyphen"/>head, or upon ones ſhoulders. If there was an Earle of <hi>Pembroke,</hi> 'twas my Cloak was guilty, not I. I ne're was ſo much as a Gentleman but onely while I ſwore. Since I left my Oathes, God confound me I am no more no<g ref="char:EOLhyphen"/>ble then any Colonel i'th' Army. All my Titles of Ho<g ref="char:EOLhyphen"/>nour were but nick-names to me; my long Bill onely made me a Woodcock, and now I have a ſhort one, twil perhaps make me but an Owle. My name was ſo long, I had much adoe to remember it. What profit doe Ti<g ref="char:EOLhyphen"/>tles bring in? 'tis a faire deale better I hope to be Knight of a <hi>Shire,</hi> then a Knight of a <hi>Garter;</hi> and a <hi>Rope</hi> with <hi>Gregory</hi> at it would become me as well (I think) as a <hi>Blew Ribbon</hi> with a <hi>George.</hi>
+            </p>
+            <pb n="3" facs="tcp:165046:3"/>
+            <p> Mr. Speaker, I have been ſick o'th' <hi>Nobility</hi> ere ſince my Lord of <hi>Holland</hi> wore a night-cap. Pray God a man may be a <hi>Knight</hi> in quiet. I can as well ride with two Horſes, as ſix. Ile goe on foot, or any thing, rather then be carted with one.</p>
+            <p>God dam me, M. Speaker, I was curſt (I think) to be made an <hi>Earl.</hi> The Devill did it to have me <hi>beheaded;</hi> and I had rather be <hi>hanged,</hi> if I muſt die; that's a dogs death (M. Speaker) and you know I love Dogs. I would I had been a Brewer, or a Cobler, or any thing but a Lord.</p>
+            <p>M. Speaker, pray move it that <hi>Michael Oldſworth</hi> may be Earl of <hi>Pembrok,</hi> I have been Lord long enough a conſcience. <hi>Michael</hi> is a man of underſtanding; <hi>Pem<g ref="char:EOLhyphen"/>broke</hi> and <hi>Montgomery</hi> may be Welſh for ought I know. He has made me a <hi>Knight;</hi> and, what can I doe leſſe then make him a <hi>Lord?</hi> He made me a <hi>Presbyterian,</hi> and he made me a <hi>Viſitor:</hi> and now he has made me as good a Member as himſelf. He makes my Speeches; and I think I have as good Speeches made for me, as any Lord i'th' Kingdome. He can make me an <hi>Independent,</hi> or a <hi>Leveller,</hi> or any thing as occaſion ſerves. God dam me, he is the beſt maker that ere I had.</p>
+            <p>M. Speaker, I was once i'th' <hi>Tower,</hi> you know, and muſt have gone to <hi>Tower-hill</hi> but for him; and what a mad Earle ſhould I have made with my head off? Some ſay, I am none of the wiſeſt now it's on; I have been a<g ref="char:EOLhyphen"/>live this ſeven yeares, and you know many a wiſer man than I hath gone to pot: They talke of the <hi>Biſhop,</hi> and <hi>Deputy,</hi> but and if they were wiſe, I thank God I am a foole.</p>
+            <p>All Religion is good (Mr. Speaker) and why ſhould not all kinds of Religions be good too? We cannot have
+<pb n="4" facs="tcp:165046:4"/>too much Religion; and how can we have too many? I loved the <hi>Common-Prayer,</hi> the <hi>Letanie</hi> ſerved me for <hi>ſwearing.</hi> I love <hi>Presbyterie</hi> too; you know that brought the <hi>Covenant;</hi> and we had no ſwearing a long while be<g ref="char:EOLhyphen"/>fore. I love the <hi>Independent</hi> too; why ſhould we not have a pack of Religions, as well as a pack of Dogs? I hope both Presbyter and Independent will concur and agree; a man may be <hi>both,</hi> I think, as well as <hi>either</hi> of 'em. I can be any thing, and I can be nothing, in <hi>a Par<g ref="char:EOLhyphen"/>liamentary way.</hi> Though I am a poor Chriſtian, I thank God I am a contented one. I can be a Lord when I can; and I can be a Knight when I cannot otherwiſe chuſe: I am not ſuch a Fool, but that in theſe times I can be a <hi>Changeling</hi> too. <hi>Michael Oldſworth</hi> will inſtruct me, and I am not ſuch fool neither, but to doe as I am bid. If there ſhould be <hi>a King</hi> againe, I ſhall, perhaps, be begg'd for a <hi>Fool,</hi> but till then I am not ſuch a fool as to be a <hi>Beggar.</hi> I'le be a <hi>Leveller</hi> ſo I may keep my own Eſtate; We ſhall not be Levellers I hope (M. Speaker) among our ſelves.</p>
+            <p>M. Speaker, I think I can Vote as well as any man: though I am a gooſe I can cackle. <hi>Michael Oldſworth</hi> and I ſhall carry it what ere it be; when he <hi>opens</hi> I ſhall <hi>gape</hi> I warrant; and I hope we are enough to ſet the reſt a <hi>yawning.</hi> I hate diviſion; when I am hunting I love a full cry, I am no ſtragler; I ſhall never leave you till you turne me away. I had not left the Houſe of Lords, had it not left being a Houſe of Lords. 'Twas all a poore COBWEB could doe, to hang till the Houſe was blowne up. Had I <hi>hang</hi> any longer, I might have been <hi>hang'd</hi> for ought I know. But I can be a Cobweb, Mr. Speaker, i'th' <hi>Lower</hi> Houſe as well as in the <hi>Upper.</hi> A Cobweb may be any where but in <hi>Westminſter-Hall.</hi>
+            </p>
+            <pb n="5" facs="tcp:165046:4"/>
+            <p> The upper Houſe has been <hi>Viſited</hi> as well as <hi>Oxford;</hi> there are more Earles of <hi>Pembrok</hi> (it ſeemes) beſide my ſelf. FAUX had like to have blown it up, but hang him Traytor, he would not have done it in a <hi>Parliamen<g ref="char:EOLhyphen"/>tary way.</hi> IN A PARLIAMENTARY WAY, I ſay: I'le ſpeak no Treaſon M. Speaker, that's as bad as flinging <hi>Standaſhes.</hi> I could never ſee <hi>Faux</hi> his head, God for<g ref="char:EOLhyphen"/>give me, but mine aked preſently. I doe what I can to keep it on; and yet I am afraid one time or other 'twill be looſe i'th' hilts. 'Tis a ſcirvy one, but 'tis better then none. Should I want my <hi>Head,</hi> how ſhould I do to wear a <hi>Periwig?</hi> Let 'em take my Armes, ſo they leave my Head ſafe. Let 'em take <hi>Pembroke</hi> and <hi>Montgomery,</hi> ſo they leave <hi>Philip</hi> and <hi>Herbert;</hi> and let 'em take them too, ſo they leave <hi>Me.</hi> I doe not ſtand upon names<g ref="char:punc">▪</g> My good name was gone long agoe; and yet I thank God I am a live, and keep Hounds ſtill. One may be a Parlia<g ref="char:EOLhyphen"/>ment man I hope without a name; and a Knight with<g ref="char:EOLhyphen"/>out a name.</p>
+            <p>I ſhall doe excellent well in a <hi>Repreſentative.</hi> I know I can ſit as like an Image (though I ſay't Maſter Speaker) as the beſt i'th' Houſe. I ſhall ſit ſtill, till you make a new <hi>Oath:</hi> A freſh Oath M. Speaker in my judgement would doe very well; But I would have it contrary to all for only Variety is pleaſing to all men.</p>
+            <p>And now M. Speaker, that I am ſpeaking of Oaths; I remember when I was ſent by your Order to undoe the Univerſity of <hi>Oxford,</hi> according to the Duty of my Place, which I hold there as Chancellour; I met with ſome troubleſome Scholars which talked to me of Con<g ref="char:EOLhyphen"/>ſcience: They could not ſwear, and forſwear themſelves (forſooth) becauſe of Conſcience. Their Conſcience, they ſaid, would not ſuffer them.</p>
+            <pb n="6" facs="tcp:165046:5"/>
+            <p> M. Speaker, My firſt Motion therefore to this Ho<g ref="char:EOLhyphen"/>nourable Houſe, is, That it may be put to a Vote, Whe<g ref="char:EOLhyphen"/>ther or no there be any ſuch thing as <hi>Conſcience:</hi> Or, if there be, that then an Act may be made by this Houſe, that no man may be allowed to keep a good Conſcience but the wicked Cavaliers.</p>
+            <p>For alas! Mr. Speaker, this Conſcience is good for nothing but to make a man a Beggar. Would I have been troubled with it, I had been as poore as any o'th' Kings Lords are now. 'Tis eaſier keeping two or three packs of Dogs, then one good Conſcience, and yet Oat<g ref="char:EOLhyphen"/>meale is very deare now God knowes.</p>
+            <p>Mr. Speaker, I hope 'tis not unlawfull to keep Dogs; Keeping Dogs, Mr. Speaker, is no ſwearing. I love Dogs, and I love the Parliament; I may love Dogs, and yet not love Kings; I muſt love Dogs now, Mr. Speaker, for elſe why was I choſen Knight of <hi>Bark-ſhire?</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
